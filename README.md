@@ -1,6 +1,6 @@
 # Comparative Analysis of Classification Algorithms to Predict Diabetes in Individuals
 
-- Comparing and Hyper-tuning Neural Nets, k-NNs, and SVMs for Loan Approval predictions
+- Comparing, hyper-tuning, and evaluating Neural Nets, k-NNs, and SVMs for Loan Approval predictions
 
 ## Overview
 
