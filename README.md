@@ -2,7 +2,7 @@
 
 A comparative analysis of three classification algorithms: k-Nearest Neighbors (k-NN), Support Vector Machine (SVM), and Neural Networks (Feed Forward). The analysis uses the `diabetes.csv` dataset to determine which algorithm yields the least classification error.
 
-## Project Overview
+## Overview
 
 The Jupyter notebook, `diabetes_classification.ipynb`, contains a detailed analysis of the following models:
 
