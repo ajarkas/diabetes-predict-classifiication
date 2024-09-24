@@ -1,6 +1,6 @@
 # Comparative Analysis of Classification Algorithms to Predict Diabetes in Individuals
 
-Three classification algorithms: k-Nearest Neighbors (k-NN), Support Vector Machine (SVM), and Neural Networks (Feed Forward) are evaluated. The analysis uses the `diabetes.csv` dataset to determine which algorithm yields the least classification error.
+- Comparing and Hypertuning Neural Nets, k-NNs, and SVMs for Loan Approval predictions
 
 ## Overview
 
